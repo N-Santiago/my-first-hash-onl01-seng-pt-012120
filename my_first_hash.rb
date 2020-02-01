@@ -37,5 +37,5 @@ shipping_manifest["gun powder"] = 4
 
 
   # return the shipping_manifest hash below
-return shipping_manifest["porcelain vases"]
+shipping_manifest["porcelain vases"] = 2 
 end
